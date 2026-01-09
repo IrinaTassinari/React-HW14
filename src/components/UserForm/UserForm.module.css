@@ -1,0 +1,23 @@
+.text{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.btnWrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;  
+}
+.btn{
+    border: 1px solid rgb(11, 187, 90);
+    border-radius: 8px;
+    padding: 8px 15px;
+    color: rgb(11, 187, 90);
+    cursor: pointer;
+
+}
